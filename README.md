@@ -1,13 +1,10 @@
 # E01b-Smiles
+    
 An exercise exploring variables and loops using Python Arcade.
 
 This repository contains several files that you will need to alter to complete the assignment. The instructions for the exercise are also on Canvas.
 
 Comments in Python are marked by a # sign (for single-line comments) or three matching quotation marks (''' or """) if a comment requires more than one line. They should also appear in a different color in VS Code. The Python Interpreter ignores comments, so you can safely include any information you want there.
-
-As with your assignments, please edit the LICENSE file (replace the [year] [fullname] with the current year and your name); you will also be expected to edit README.md (this file) to describe what you have accomplished.
-
----
 
 As always, Fork this repository, and then Clone it to your local computer.
 
