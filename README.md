@@ -45,3 +45,10 @@ The grading criteria will be as follows:
 * [8] Accomplishes the objective of the exercise
 
 10 points total
+
+Main1 has been changed to middle of the screen.
+Main2 has set values that allow it to start in the middle of the screen.
+Main3 takes the new values so I can add or subtract the values to make it work.
+Main4 replicates a giant wall of smiley faces to cover the whole screen.
+Main5 set the smiley face to wherever the mouse is on your screen and 
+I have commented out all of the lines for the extra credit.
